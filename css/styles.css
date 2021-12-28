@@ -1,0 +1,22 @@
+body {
+  background-color: #F2FFE9;
+}
+
+hr {
+  background-color : #F2FFE9;
+  border-style : dotted none none;
+
+  border-color : grey;
+  border-width :10px;
+  width: 4% ;
+}
+h1{
+  text-shadow: 2px 2px black;
+  color: red;
+}
+h3{
+  color: powderblue;
+}
+h4{
+  text-align: center;
+}
